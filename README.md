@@ -1,3 +1,3 @@
 # online_calculator
 
-This is a online calculator project
+This is an online calculator project
